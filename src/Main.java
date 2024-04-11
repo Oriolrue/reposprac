@@ -9,7 +9,7 @@ public class Main {
 
     }
     private static void mayla(){
-
+        System.out.println("uiu");
     }
     private static void alejandro(){
 
