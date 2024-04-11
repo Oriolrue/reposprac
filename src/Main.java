@@ -9,7 +9,7 @@ public class Main {
 
     }
     private static void mayla(){
-        System.out.println("uiu uiu uiu");
+        System.out.println("uiu uiu");
     }
     private static void alejandro(){
         System.out.println("sexo en la playa con abulas en bikini ");
