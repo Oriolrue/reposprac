@@ -15,7 +15,7 @@ public class Main {
 
     }
     private static void mouad(){
-
+        System.out.println("Hala Madrid");
     }
     private static void oriol(){
 
