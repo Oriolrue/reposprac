@@ -15,7 +15,7 @@ public class Main {
         System.out.println("sexo en la playa con abulas en bikini ");
     }
     private static void mouad(){
-        System.out.println("Hala Madrid");
+        System.out.println("Hala Madrid1");
     }
     private static void oriol(){
 
