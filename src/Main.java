@@ -12,7 +12,7 @@ public class Main {
         System.out.println("uiu uiu");
     }
     private static void alejandro(){
-        System.out.println("sexo en la playa con abulas en bikini ");
+        System.out.println("uri comeme la polla");
     }
     private static void mouad(){
         System.out.println("Hala Madrid");
