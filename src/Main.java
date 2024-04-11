@@ -12,7 +12,7 @@ public class Main {
         System.out.println("uiu");
     }
     private static void alejandro(){
-        System.out.println("sexo");
+        System.out.println("sexo con tu madre en la mañana de un viernes");
     }
     private static void mouad(){
         System.out.println("Hala Madrid");
